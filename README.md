@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sethum</h1>
-<h3 align="center">A passionate software engineering student from Sri lanka</h3>
+<h3 align="center">A passionate trainee Software Engineer from Sri lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethumvidmal&label=Profile%20views&color=0e75b6&style=flat" alt="sethumvidmal" /> </p>
 
