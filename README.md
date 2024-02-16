@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sethumvidmal&show_icons=true&theme=tokyonight&locale=en" alt="sethumvidmal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sethumvidmal&theme=dark" alt="sethumvidmal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sethumvidmal&theme=highcontrast" alt="sethumvidmal" /></p>
