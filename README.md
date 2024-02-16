@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sethumvidmal&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sethumvidmal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sethumvidmal&show_icons=true&theme=tokyonight&locale=en" alt="sethumvidmal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sethumvidmal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="sethumvidmal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sethumvidmal&theme=highcontrast" alt="sethumvidmal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sethumvidmal&theme=default" alt="sethumvidmal" /></p>
